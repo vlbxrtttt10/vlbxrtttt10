@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Albert%20Vargas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,20,22&height=200&section=header&text=Albert%20Vargas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descAlign=50&descSize=20&descColor=A960EE" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=A960EE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+Node.js+%7C+.NET+%7C+Express;React+%7C+Angular+%7C+Next.js+%7C+Astro;Flutter+%7C+Dart+%7C+Mobile+Dev;MySQL+%7C+MongoDB+%7C+Firestore;Building+things+that+matter+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=A960EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Flutter;Clean+code.+Real+results.;Always+building+something." />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ Languages
+## Languages
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 </div>
 
-## 🔧 Backend
+## Backend
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 </div>
 
-## 🎨 Frontend & Mobile
+## Frontend & Mobile
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 </div>
 
-## 🗄️ Databases
+## Databases
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vlbxrtttt10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
@@ -82,7 +82,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlbxrtttt10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A960EE&line=A960EE&point=ffffff"/>
@@ -90,7 +90,7 @@
 
 ---
 
-## 🐍 Contributions
+## Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vlbxrtttt10/vlbxrtttt10/output/github-contribution-grid-snake-dark.svg"/>
@@ -99,5 +99,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=vlbxrtttt10&color=A960EE&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,22&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
