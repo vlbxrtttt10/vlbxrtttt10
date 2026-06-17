@@ -10,13 +10,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/albert-vargas-471139321/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/-%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:vlbxrtvxrgxs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+    <img src="https://img.shields.io/badge/-%20Send%20me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
 
 
 ---
