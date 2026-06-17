@@ -82,10 +82,10 @@
 
 ---
 
-## 🏆 Trophies
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vlbxrtttt10&theme=radical&no-frame=true&column=7&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlbxrtttt10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A960EE&line=A960EE&point=ffffff"/>
 </div>
 
 ---
