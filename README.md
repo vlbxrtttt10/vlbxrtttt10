@@ -13,7 +13,6 @@
 **Jr. Backend Developer**
 Focused on Web Architecture & Design.
 
-- Building and maintaining web systems with Laravel and Node.js
 - Always learning new technologies and frameworks
 
 
