@@ -34,7 +34,3 @@ Focused on Web Architecture & Design. 🌐
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vlbxrtttt10&color=A960EE&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
