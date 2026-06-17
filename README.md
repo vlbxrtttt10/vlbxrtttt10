@@ -15,7 +15,6 @@ Focused on Web Architecture & Design.
 
 - Building and maintaining web systems with Laravel and Node.js
 - Always learning new technologies and frameworks
-- Ask me about PHP, Laravel, or REST APIs — vlbxrtvxrgxs@gmail.com
 
 
 ## Tech Arsenal
@@ -35,7 +34,6 @@ Focused on Web Architecture & Design.
   <img src="https://streak-stats.demolab.com?user=vlbxrtttt10&theme=radical&hide_border=true&background=0D1117&fire=A960EE&ring=A960EE&currStreakLabel=A960EE"/>
 </div>
 
----
 
 ## Contributions
 
