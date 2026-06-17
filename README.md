@@ -14,8 +14,6 @@
   <img src="https://skillicons.dev/icons?i=js,php,python,java,dart,html,css,laravel,nodejs,express,dotnet,react,nextjs,angular,astro,flutter,tailwind,mysql,mongodb,firebase&perline=10&theme=dark"/>
 </div>
 
----
-
 ## Stats
 
 <div align="center">
