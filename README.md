@@ -23,18 +23,6 @@ Focused on Web Architecture & Design.
   <img src="https://skillicons.dev/icons?i=js,php,python,java,dart,html,css,laravel,nodejs,express,dotnet,react,nextjs,angular,astro,flutter,tailwind,mysql,mongodb,firebase&perline=10&theme=dark"/>
 </div>
 
-## Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vlbxrtttt10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbxrtttt10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vlbxrtttt10&theme=radical&hide_border=true&background=0D1117&fire=A960EE&ring=A960EE&currStreakLabel=A960EE"/>
-</div>
-
-
 ## Contributions
 
 <div align="center">
