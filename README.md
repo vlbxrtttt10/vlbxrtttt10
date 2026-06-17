@@ -8,18 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/albert-vargas-471139321/">
-    <img src="https://img.shields.io/badge/-%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vlbxrtvxrgxs@gmail.com">
-    <img src="https://img.shields.io/badge/-%20Send%20me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-
-
 ---
 
 ## Tech Arsenal
