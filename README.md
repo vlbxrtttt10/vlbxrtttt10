@@ -28,9 +28,3 @@ Focused on Web Architecture & Design.
 <div align="center">
   <img src="https://raw.githubusercontent.com/vlbxrtttt10/vlbxrtttt10/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,22&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
