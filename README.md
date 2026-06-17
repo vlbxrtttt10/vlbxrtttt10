@@ -9,12 +9,15 @@
 <br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Albert%20Vargas-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/albert-vargas-471139321/)
-[![Gmail](https://img.shields.io/badge/-vlbxrtvxrgxs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:vlbxrtvxrgxs@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=vlbxrtttt10&color=A960EE&style=flat-square&label=Profile+Views)](https://github.com/vlbxrtttt10)
-
+  <a href="https://www.linkedin.com/in/albert-vargas-471139321/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vlbxrtvxrgxs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
 </div>
+
 
 ---
 
