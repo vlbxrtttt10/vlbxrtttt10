@@ -8,6 +8,16 @@
 
 <br/>
 
+## About Me
+
+**Jr. Backend Developer**
+Focused on Web Architecture & Design.
+
+- Building and maintaining web systems with Laravel and Node.js
+- Always learning new technologies and frameworks
+- Ask me about PHP, Laravel, or REST APIs — vlbxrtvxrgxs@gmail.com
+
+
 ## Tech Arsenal
 
 <div align="center">
