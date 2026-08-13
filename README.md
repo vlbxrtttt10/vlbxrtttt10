@@ -1,7 +1,3 @@
-<br/>
-
-<br/>
-
 ## 🧑‍💻 About Me
 
 **Jr. Backend Developer**
