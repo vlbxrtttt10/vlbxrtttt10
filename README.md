@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-**Jr. Backend Developer**
+**Senior Backend Developer**
 Focused on Web Architecture & Design. 🌐
 
 - 📚 Always learning new technologies and frameworks
